@@ -186,7 +186,7 @@ void excluirElemento() {
 		}
 	}
 
-
+	
 
 // retorna um ponteiro para o elemento buscado
 // ou NULL se o elemento não estiver na lista
